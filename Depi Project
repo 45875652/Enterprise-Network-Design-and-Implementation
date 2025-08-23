@@ -1,0 +1,15 @@
+README.md
+# Enterprise Network Design and Implementation  
+
+This project contains the design, configuration, and implementation of an enterprise-level network using industry best practices.  
+
+## Contents
+- Network Topology  
+- IP Addressing Plan  
+- VLANs and Subnetting  
+- Routing Protocols (OSPF, EIGRP)  
+- Security Policies and ACLs  
+- Implementation on Packet Tracer / GNS3  
+
+## Author
+Depi Project Team
